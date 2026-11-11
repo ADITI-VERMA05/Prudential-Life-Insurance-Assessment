@@ -1,0 +1,13 @@
+ipykernel
+numpy
+pandas
+scikit-learn
+matplotlib 
+seaborn  
+scikit-image 
+pillow 
+joblib
+streamlit
+xgboost
+mlflow
+mlxtend
